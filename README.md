@@ -2,10 +2,11 @@
 
 - Estudante de tecnologia.
 
-![Haroldo Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldoromano&show_icons=true&theme=tokyonight)
-![Haroldo Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldoromano&show_icons=true&theme=transparent)
+[![Haroldo Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldoromano&show_icons=true&theme=tokyonight)]()
+[![Haroldo Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldoromano&show_icons=true&theme=transparent)]()
 
-[![Haroldo Romano Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haroldoromano&hide_progress=false)](https://github.com/haroldoromano/github-readme-stats)
+
+[![Haroldo Romano Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haroldoromano&theme=blue-green)]()
 
 ## Sistema Operacional
 [![Haroldo Romano OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
@@ -23,3 +24,7 @@
 [![Haroldo Romano Tecnologia](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]()
 [![Haroldo Romano Tecnologia](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
 [![Haroldo Romano Tecnologia](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)]()
+
+<!-- Fontes:
+https://dev.to/envoy_/150-badges-for-github-pnk#os
+-->
