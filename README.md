@@ -2,7 +2,6 @@
 
 - Estudante de tecnologia.
 
-[![Haroldo Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldoromano&show_icons=true&theme=tokyonight)]()
 [![Haroldo Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldoromano&show_icons=true&theme=transparent)]()
 
 [![Haroldo Romano Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haroldoromano&theme=blue-green)]()
